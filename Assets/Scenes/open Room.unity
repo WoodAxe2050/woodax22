@@ -3771,7 +3771,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1480734985471607193, guid: a95a7eb542c79274fb87a372fb3a417f, type: 3}
       propertyPath: m_Text
-      value: "\uCDE8\uC18C"
+      value: "\uC0DD\uC131"
       objectReference: {fileID: 0}
     - target: {fileID: 1480734985471607193, guid: a95a7eb542c79274fb87a372fb3a417f, type: 3}
       propertyPath: m_FontData.m_Font
@@ -6589,7 +6589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1480734985471607193, guid: a95a7eb542c79274fb87a372fb3a417f, type: 3}
       propertyPath: m_Text
-      value: "\uC0DD\uC131!"
+      value: "\uCDE8\uC18C"
       objectReference: {fileID: 0}
     - target: {fileID: 1480734985471607193, guid: a95a7eb542c79274fb87a372fb3a417f, type: 3}
       propertyPath: m_FontData.m_Font
